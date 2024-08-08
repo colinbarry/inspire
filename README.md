@@ -9,6 +9,8 @@ focus. ([Calm](https://blog.calm.com/blog/box-breathing))
 Inspire is a Vue application that instructs in box breathing by following the
 on-screen prompts.
 
+See the live demo [here](https://inspire-pearl.vercel.app/).
+
 ## Installation
 
 ```
