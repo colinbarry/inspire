@@ -1,5 +1,17 @@
-# Vue 3 + Vite
+Box breathing is a simple breathing technique that brings profound benefits. In
+fact, even the US Navy SEALs, some of the world's toughest soldiers, use it in
+high-stress situations. Also known as "square breathing" or "four-square
+breathing," this controlled breathing practice is based on pranayama, an
+Ayurvedic form of breathwork that originated in India. Box breathing is known
+for improving physiological responses, helping to calm the mind, and bringing
+focus. ([Calm](https://blog.calm.com/blog/box-breathing))
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Inspire is a Vue application that instructs in box breathing by following the
+on-screen prompts.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Installation
+
+```
+pnpm install
+pnpm run dev
+```
